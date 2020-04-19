@@ -1,0 +1,7 @@
+--------------------
+List Of Command:
+--------------------
+$set_target <user> - Set user as target.
+$set_reply <string> - Set a new reply for the target.
+$stop - Stop replying; remove the target.
+$help - List of commands.
