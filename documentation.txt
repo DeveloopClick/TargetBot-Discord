@@ -1,0 +1,14 @@
+
+__**List Of Command:**__
+
+`$set_target <user> - Set user as target.`
+`$set_reply <string> - Set a new reply for the target.`
+`$bomb <n> - Bomb-reply to target n times.`
+`$stop - Stop replying to target; remove the target.`
+
+`$set_initial <char> - Set new initial for the bot.`
+`$reset - Reset all: target, reply, initial.`
+
+```fix
+initials: target - None; reply - "no"; bot initial - '$'```
+**`$help - List of commands.`**
